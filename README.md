@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=250&section=header&text=Rohit%20Kamble&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -93,8 +93,7 @@ Full Stack Developer passionate about building secure and scalable web applicati
 | DevOps | Intermediate | Docker, Git, Maven |
 
 ---
-```
-```markdown
+
 # Featured Projects
 
 <details>
@@ -220,8 +219,7 @@ Backend-focused simulation tasks involving distributed systems and API integrati
 </a>
 
 ---
-```
-````markdown id="v0rk2d"
+ id="v0rk2d"
 # GitHub Analytics
 
 <div align="center">
@@ -291,6 +289,7 @@ open_to:
   - Java Full Stack Developer Roles
   - Backend Developer Roles
   - Software Engineer Opportunities
+  - Frontend Developer Roles
 ````
 
 ---
