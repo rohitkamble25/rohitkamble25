@@ -50,7 +50,7 @@ Full Stack Developer passionate about building secure and scalable web applicati
 - Java Full Stack Developer Roles
 - Backend Developer Roles
 - Software Engineer Opportunities
-
+- Frontend Developer Roles
 ---
 
 # Tech Stack
@@ -210,13 +210,6 @@ Backend-focused simulation tasks involving distributed systems and API integrati
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
-</a>
 
 ---
  id="v0rk2d"
